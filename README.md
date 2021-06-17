@@ -1,6 +1,5 @@
 # Project-1
 
- Updated 4 days ago
 DESCRIPTION
 
 Project objective:
